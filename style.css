@@ -1,0 +1,17 @@
+.container {
+    margin-top: 20px auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.recipe-title {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.recipe-links .list {
+    display: block;
+    background-color: aqua;
+    padding: 5px;
+}
